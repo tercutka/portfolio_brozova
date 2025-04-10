@@ -1,0 +1,14 @@
+h1{ 
+    font-size: xx-large;
+    color: blueviolet;
+}
+.horizontal-scroll {
+    height: 100vh;
+    background-color: #ccc;
+    overflow: hidden;
+}
+
+.horizontal-content {
+    display: flex;
+    gap: 20px;
+}
